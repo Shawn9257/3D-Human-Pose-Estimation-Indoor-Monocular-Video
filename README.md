@@ -1,2 +1,9 @@
 # 3D-Human-Pose-Estimation-Indoor-Monocular-Video
-This is a work to make a 3D
+- This work is base on a monocular indoor video enviroment. 
+- with monodepth2 and HRNet
+
+# model result(video)
+
+
+
+# 
